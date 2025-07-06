@@ -4,3 +4,7 @@ print(a+b)
 
 name = 'Mayur Badhan'
 print(name)
+
+
+god = "Shree Gurudev Datta"
+print(god)
